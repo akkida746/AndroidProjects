@@ -30,6 +30,13 @@
             android:layout_gravity="center_horizontal"
             android:text="@string/roll_label" />
 
+        <Button
+            android:id="@+id/count_up"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/count_up" />
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
